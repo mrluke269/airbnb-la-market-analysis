@@ -1,17 +1,4 @@
-# Airbnb Market Analysis – Los Angeles (Power BI + Python)
-
-## Project Structure
-
-airbnb-la-market-analysis/
-├── notebooks/
-│   └── airbnb_data_cleaning.ipynb
-├── report/
-│   └── Airbnb_LA_Analysis.pbix
-├── images/
-│   └── dashboard_summary.png
-├── data/
-│   └── airbnb_la_cleaned.csv
-└── README.md
+# Airbnb Market Analysis – Los Angeles city
 
 ## Project Overview
 
